@@ -37,4 +37,4 @@ The `freeze` method finds your `shard.yml` file recursively.
 
 ## Contributors
 
-- [[pine]](https://github.com/pine) Pine Mizune - creator, maintainer
+- [pine](https://github.com/pine) Pine Mizune - creator, maintainer
