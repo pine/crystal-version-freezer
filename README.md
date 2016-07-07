@@ -1,4 +1,4 @@
-# version-freezer [![Build Status](https://travis-ci.org/pine/crystal-version-freezer.svg?branch=master)](https://travis-ci.org/pine/crystal-version-freezer)
+# Version Freezer [![Build Status](https://travis-ci.org/pine/crystal-version-freezer.svg?branch=master)](https://travis-ci.org/pine/crystal-version-freezer)
 
 Freeze `YourLibrary::VERSION` from `shard.yml` at compile time!
 
