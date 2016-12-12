@@ -5,6 +5,8 @@ env:
     - PATH=$HOME/.crenv/bin:$PATH
   matrix:
     - CRYSTAL_VERSION=0.18.7
+    - CRYSTAL_VERSION=0.19.4
+    - CRYSTAL_VERSION=0.20.1
 
 install:
   - curl -L https://raw.github.com/pine/crenv/master/install.sh | bash
