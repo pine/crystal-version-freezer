@@ -13,7 +13,6 @@ module VersionFreezer
           version = SemanticVersion.parse(version_str)
 
           return version_str
-
         rescue YAML::ParseException
           raise "invalid YAML format: #{shard_path}"
         rescue KeyError
